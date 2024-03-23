@@ -100,5 +100,6 @@ Step 2: Add a TypeScript compiler to your project
 4:-->  configure a webpack.config.js file
 5:-->  downgrade a TypeScript a 4.x    -- npm install typescript@4 --save-exact
 6:-->  change the type of files from (.js) to (.tsx) in teh project and makes the necessary adjustments to the project functions that require it.
+7:-->  npx webpack
 
 
