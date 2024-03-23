@@ -79,12 +79,14 @@ https://marketsplash.com/tutorials/typescript/how-to-convert-react-js-to-typescr
 https://github.com/microsoft/TypeScript-React-Conversion-Guide?tab=readme-ov-file
 
 
-Different approaches to transitioning from JavaScript to TypeScript
+Different approaches to transitioning from JavaScript to TypeScript:
+
 -> Manually convert your codebase. 
 -> Use a JavaScript to TypeScript converter like TypeScriptify or Babel to automatically convert the codebase. 
 
 
-Step by Step
+### Step by Step
+
 Step 1: Configure your IDE
 
 
