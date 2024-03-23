@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Converting A React.js Project To TypeScript
+
+Links:
+https://www.turing.com/kb/migrate-javascript-to-typescript
+https://marketsplash.com/tutorials/typescript/how-to-convert-react-js-to-typescript/
