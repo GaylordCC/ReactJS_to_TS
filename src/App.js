@@ -1,4 +1,4 @@
-import Joke from "./Joke";
+import Joke from "./componets/Joke";
  
 function App() {
     return (

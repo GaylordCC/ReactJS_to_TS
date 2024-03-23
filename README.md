@@ -76,3 +76,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Links:
 https://www.turing.com/kb/migrate-javascript-to-typescript
 https://marketsplash.com/tutorials/typescript/how-to-convert-react-js-to-typescript/
+https://github.com/microsoft/TypeScript-React-Conversion-Guide?tab=readme-ov-file
+
+
+Different approaches to transitioning from JavaScript to TypeScript
+-> Manually convert your codebase. 
+-> Use a JavaScript to TypeScript converter like TypeScriptify or Babel to automatically convert the codebase. 
+
+
+Step by Step
+Step 1: Configure your IDE
+
+
+Step 2: Add a TypeScript compiler to your project
